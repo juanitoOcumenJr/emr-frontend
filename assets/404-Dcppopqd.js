@@ -1,0 +1,1 @@
+import{_ as t,g as c,i as e,j as s,V as o,k as a,l as r,v as _}from"./index-DmGKMhwR.js";const n="/404.png",l={};function m(f,d){return c(),e(o,{class:"my-16"},{default:s(()=>[a(r,{cols:"12",md:"12",sm:"12"},{default:s(()=>[a(_,{class:"mt-5","aspect-ratio":22/7,src:n})]),_:1})]),_:1})}const p=t(l,[["render",m]]);export{p as default};
