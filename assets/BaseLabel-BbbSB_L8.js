@@ -1,0 +1,1 @@
+import{g as t,m as a,z as r,M as l,H as s}from"./index-B7oWG4QL.js";const o={key:0,class:"size-14 w-500"},c={key:0,class:"text-red"},m={__name:"BaseLabel",props:{label:String,required:{type:Boolean,default:!1}},setup(e){return(n,i)=>e.label?(t(),a("div",o,[r(l(e.label)+" ",1),e.required?(t(),a("span",c," * ")):s("",!0)])):s("",!0)}};export{m as _};
